@@ -1,0 +1,22 @@
+[
+    {
+        "language": "HTML",
+        "done": false
+    },
+    {
+        "language": "CSS",
+        "done": true
+    },
+    {
+        "language": "Javascript",
+        "done": false
+    },
+    {
+        "language": "Vue",
+        "done": false
+    },
+    {
+        "language": "Vite",
+        "done": false
+    }
+]
